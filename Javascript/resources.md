@@ -7,3 +7,6 @@
 
 ## [TW Blocks](https://www.twblocks.com/)
 React SaaS website component blocks
+
+## [Lucid React](https://lucide.dev/)
+Consistent Icons
