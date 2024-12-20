@@ -21,6 +21,9 @@
 - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
+- [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
+- [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)
 
 ## Javascript
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
