@@ -1,5 +1,8 @@
 # All important commands for Poetry
 
+## For poetry 2.0.0 and above, need additional package to run `poetry shell` 
+`pip install poetry-plugin-shell` 
+
 ## Install poetry
 `python -m pip install poetry`
 
