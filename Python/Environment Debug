@@ -1,0 +1,2 @@
+## Find out where the pip is pulling configurations from
+`python3 -m pip config debug`
